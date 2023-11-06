@@ -4,3 +4,6 @@ GitHubi kasutavad nii üksikisikud kui ka ettevõtted, et luua, testida ja jagad
 Milleks kasutan mina edaspidi GitHub-i:
 Edaspidi kasutan GitHubi oma isiklike tarkvaraprojektide jaoks, et jagada oma koodi teistega ja saada tagasisidet
 GitHub on hea koht, kus hoida oma koodi varukoopiat ja jagada seda teistega.
+
+
+GitHub Inc asutati 2008. aastal Chris Wankmani, Tom Preston-Werneri ja PJ Hyettsi poolt. Ettevõte asutati San Franciscos, Californias. GitHubi teenus oli kättesaadav alates 2008. aasta oktoobrist.
